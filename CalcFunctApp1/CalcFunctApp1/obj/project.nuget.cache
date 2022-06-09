@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WhkhiCEHEbpvBwHH9gGngGtFuFHVfFOTbXRzw6qH/mBTBWFPiPBjF2AZAs1GeP7iU06PCAm8UA1xT6qF1mYCQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Elev8_MS_ATO\\CalcFunctApp1\\CalcFunctApp1\\CalcFunctApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NET.Sdk.Functions"
+    }
+  ]
+}
